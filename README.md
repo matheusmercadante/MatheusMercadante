@@ -1,13 +1,13 @@
 
 <p>
-   <img src="https://i.ibb.co/W5GpcdS/matheusbanner.jpg" alt="MMF Thumb" border="0" width="100%">
+   <img src="https://i.ibb.co/NTF9PKB/matheusbanner.jpg" alt="MMF Thumb" border="0" width="100%">
 </p>
 
 <p align="center">
   <a href="https://www.instagram.com/_matheusmercadante/">Instagram</a> •
   <!-- <a href="https://youtube.com/c/carloslevir">Youtube Channel (in portuguese)</a> •
-  <a href="https://carloslevir.com">Blog</a>
   -->
+  <a href="https://www.facebook.com/mathmercadante">Facebook</a>
 </p>
 
 ---
