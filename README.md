@@ -1,6 +1,6 @@
 
 <p>
-   <img src="https://i.ibb.co/fqJSBwk/cl.png" alt="CL Thumb" border="0" width="100%">
+   <img src="https://ibb.co/L5T66jq" alt="CL Thumb" border="0" width="100%">
 </p>
 
 <p align="center">
