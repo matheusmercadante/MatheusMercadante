@@ -1,6 +1,6 @@
 
 <p>
-   <img src="https://i.ibb.co/XZK1Vqk/matheusbanner.png" alt="MMF Thumb" border="0" width="100%">
+   <img src="https://i.ibb.co/W5GpcdS/matheusbanner.jpg" alt="MMF Thumb" border="0" width="100%">
 </p>
 
 <p align="center">
