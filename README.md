@@ -3,20 +3,25 @@
    <img src="https://i.ibb.co/51QQZNH/matheusbanner.jpg" alt="MMF Thumb" border="0" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com/_matheusmercadante/">Instagram</a> •
-  <!-- <a href="https://youtube.com/c/carloslevir">Youtube Channel (in portuguese)</a> •
-  -->
-  <a href="https://www.facebook.com/mathmercadante">Facebook</a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-mercadante/)](https://www.linkedin.com/in/matheus-mercadante/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_matheusmercadante/)](https://www.instagram.com/_matheusmercadante/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusmercadante2002@gmail.com)](mailto:matheusmercadante2002@gmail.com)
 
----
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Matheus Mercadante. Nice to meet you.
 
-## 👨🏻‍💻 Um pouco sobre mim
+*I am a DevOps Engineer and a student of Ethical Hacking. I have a great passion for automation, architecture solutions and culture code and just little bit (little bit rsrs :smirk:) of red hat solutions, including RHEL and i can't to forget of my love, K8S :heart_eyes:). I just love what I do ❤️❤️*
 
-Hi there 👋🏻  
-Eu sou Matheus Mercadante de França, Desenvolvedor Backend em [Node Js](https://nodejs.org/), trabalhando com os ecossistemas Express Js, Adonis Js e Nest Js.
+Things I like to do:
 
-Minhas ferramentas favoritas: <img src="https://img.icons8.com/color/100/000000/javascript.png" width="30"/> <b>JavaScript</b>, <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
+- 🖥 Web Applications
+- :eyeglasses: Hacking CTF's
+- :fork_and_knife: Solve Problems
 
-Buscando maestria: <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>, <img src="https://img.icons8.com/color/100/000000/javascript.png" width="20"/> <b>JavaScript</b>
+About me:
+
+- 🔭 I'm currently learning a lot and working on DevOps 
+- 🌱 I'm currently seeking mastery of JavaScript, TypeScript and NodeJS
+- ✊🏽 I try to collaborate on social impact projects
+- 💡 I try to help people who are starting in programming
+- 💬 Ask me about anything, but know that I'm passionate about technology
+- ⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.
