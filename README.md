@@ -19,7 +19,7 @@ Things I like to do:
 
 About me:
 
-- 🔭 I'm currently learning a lot and working on DevOps 
+- 🔭 I'm currently learning a lot and working on DevOps and GitOps
 - 🌱 I'm currently seeking mastery of JavaScript, TypeScript and NodeJS
 - ✊🏽 I try to collaborate on social impact projects
 - 💡 I try to help people who are starting in programming
