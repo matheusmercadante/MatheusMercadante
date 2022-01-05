@@ -27,4 +27,4 @@ About me:
 - ⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.
 
 
-<img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmercadante&layout=compact&langs_count=16&theme=dracula"" alt="matheusmercadante" />
+<img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmercadante&layout=compact&langs_count=16&theme=dracula" alt="matheusmercadante" />
